@@ -1,0 +1,10 @@
+Part,Quantity,Supplier 1,Link or Ordering Number 1,Supplier 2,Link or Ordering Number 2
+1x20 female header,2,Digikey,952-1905-ND,LCSC,C5224030
+48V power supply,1,Digikey,993-1303-ND,,
+M3x6 Screw,8,Amazon,https://www.amazon.com/dp/B09D93RW6L?psc=1&ref=ppx_yo2ov_dt_b_product_details,,
+M2x6 Screw,4,Amazon,https://www.amazon.com/dp/B09D93RW6L?psc=1&ref=ppx_yo2ov_dt_b_product_details,,
+M2 Nut,3,Digikey,H761-ND,Amazon,https://www.amazon.com/gp/product/B01KCOH60K/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1
+4-pin Dupont Cable,1,Amazon,https://www.amazon.com/gp/product/B0789F523N/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1,,
+OLED Screen,1,Amazon,https://www.amazon.com/gp/product/B09C5K91H7/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1,,
+Front Plate,1,JLCPCB,https://github.com/rrruark/DNVT/tree/master/PCB/7_box_front,,
+Back Plate,1,JLCPCB,https://github.com/rrruark/DNVT/tree/master/PCB/8_box_back_rj45,,

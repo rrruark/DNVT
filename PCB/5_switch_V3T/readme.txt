@@ -2,12 +2,12 @@ Eagle Schematic: DNVT_box3rt.sch
 Eagle Layout: DNVT_box3rt.brd
 Schematic PDF: DNVT_box3rt.pdf
 
-JLCPCB Gerbers: DNVT_box3rt_2023-02-21.zip
-JLCPCB Top Placement: DNVT_box3rt_top_cpl.csv
-JLCPCB BOM: DNVT_box3rt_top_bom.csv
+JLCPCB Gerbers: DNVT_box3t_2023-02-21.zip
+JLCPCB Top Placement: DNVT_box3t_top_cpl.csv
+JLCPCB BOM: DNVT_box3t_top_bom.csv
 
-Through Hole BOM: DNVT_box3rt_th_bom.csv
-Additional BOM: DNVT_box3r_aux_bom.csv
+Through Hole BOM: DNVT_box3t_th_bom.csv
+Additional BOM: DNVT_box3_aux_bom.csv
 
 Notes:
 
