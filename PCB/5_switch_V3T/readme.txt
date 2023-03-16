@@ -1,6 +1,6 @@
-Eagle Schematic: DNVT_box3rt.sch
-Eagle Layout: DNVT_box3rt.brd
-Schematic PDF: DNVT_box3rt.pdf
+Eagle Schematic: DNVT_box3t.sch
+Eagle Layout: DNVT_box3t.brd
+Schematic PDF: DNVT_box3t.pdf
 
 JLCPCB Gerbers: DNVT_box3t_2023-02-21.zip
 JLCPCB Top Placement: DNVT_box3t_top_cpl.csv
