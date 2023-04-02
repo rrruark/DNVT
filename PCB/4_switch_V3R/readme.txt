@@ -17,4 +17,4 @@ Notes:
 -The Digikey BOM lists through hole parts which must be manually assembled as well as the LCSC alternatives for these parts where available.
 -The additional BOM lists parts not captured in the Eagle BOM export: headers for the Pico, the case, OLED screen, Front and back plates, screws, nuts, cable for screen, and 48V power supply.
 
-Engineer Contact: Robert Ruark: rob@robruark.com
+Designer Contact: Robert Ruark: rob@robruark.com
