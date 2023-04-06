@@ -27,7 +27,7 @@ Qty;Value;Device;Package;Parts;Description;Assembled by JLCPCB;PARTNO;LCSC;SPICE
 4;DNP;R-US_R0805;R0805;R6, R33, R43, R53;RESISTOR, American symbol;No;;;R;;;;;;
 2;ES1JFL;ES1JFL;SOD123(AK);CR1, CR2;Diode Standard 600 V 1A Surface Mount SOD-123F;Yes;ES1JFLCT-ND;;;;;;;;
 1;EVQ-PF008K;EVQ-PF008K;EVQ-PF008K;SW1;Tactile Switch SPST-NO Side Actuated Through Hole, Right Angle;No;P10880S-ND;;;;;;;;
-1;G-1005B;G-1005B;G-1005B;J4;"Power Barrel Connector Jack 2.50mm ID (0.098""), 5.50mm OD (0.217"") Through Hole, Right Angle";No;1939-G-1005B-ND;;;;;;;;
+1;PJ-002A;PJ-002A;PJ-002A;J4;"Power Barrel Connector Jack 2.10mm ID (0.083""), 5.50mm OD (0.217"") Through Hole, Right Angle";No;CP-002A-ND;;;;;;;;
 4;ISL83490IBZ-T;ISL83490IBZ-T;SOIC8;U1, U2, U3, U5;1/1 Transceiver Full RS422, RS485 8-SOIC 3.3V;Yes;ISL83490IBZ-TCT-ND;;;;;;;;
 1;MEM2080-00-128-00-A;MEM2080-00-128-00-A;MEM2080;J5;9 (8 + 1) Position Card Connector Secure Digital - microSD™ Surface Mount, Right Angle Gold;No;2073-MEM2080-00-128-00-ACT-ND;;;;;;;;
 1;RASPBERRY_PICOTH;RASPBERRY_PICOTH;PICO-PKG-TH;U7;Raspberry Pi Pico;No;2648-SC0917-ND;;;;;;;;
