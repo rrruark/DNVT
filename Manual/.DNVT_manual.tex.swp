@@ -46,6 +46,7 @@
 
 \begin{itemize}
 \item{Stand-alone local switching of four DNVTs}
+\item{Linux application based switching of 99 DNVTs.}
 \item{VOIP to DNVT adapters.}
 \item{DNVT operation for functional film props.}
 \end{itemize}
@@ -61,7 +62,7 @@
 \end{itemize}
 
 \section{General Description}
-This PCBA is a Raspberry Pi Pico carrier board which interfaces DNVTs with a Raspberry Pi Pico. This document describes the function of the carrier board subassembly and does not cover custom software which may run on the Raspberry Pi Pico microcontroller.
+The DVNT switch is a Raspberry Pi Pico carrier board which interfaces DNVTs with a Raspberry Pi Pico. This document describes the function of the carrier board subassembly and configuration of the switch for local and USB operation.
 
 DNVTs are powered in common battery (CB) mode through center-tapped isolation transformers from a 48 V DC barrel jack input allowing phones to operate at a distance of up to 4 km from the switch through CAT5e or equivilent wiring. RS422 transceivers translate the 3.3 V logic level signals of the Raspberry Pi Pico to the differential signals required to interface with the DNVTs.
 
@@ -80,7 +81,7 @@ This project is entirely open source. Design files for the PCBAs and vill of mat
 \onecolumn
 
 \section{Electrical Specifications}
-All specifications are in $0\degree C \leq T_A \leq 70\degree C$. All components are rated to -40 to +85 aside from the line transformers which are rated to $0\degree C$ to $70\degree C$ but which have been tested in qualification to $-20\degree C$ to $+85\degree C$.
+All components are rated to -40 to +85 aside from the line transformers which are rated to $0\degree C$ to $70\degree C$ but which have been tested in qualification from $-20\degree C$ to $+85\degree C$.
 
 \begin{table}[h]
 \begin{threeparttable}
@@ -125,6 +126,14 @@ All specifications are in $0\degree C \leq T_A \leq 70\degree C$. All components
 cause permanent damage to the device. This is a stress rating only. Functional
 operation of the device is not implied in any conditions above those indicated
 in the Electrical Specifications section.
+
+\section{Functional Description}
+
+Each DNVT connects through a transient voltage protection network consisting of a 470 V gas discharge tube followed by 33uH inductors and a 9.2 V TVS diode. The differential signal to and from each DNVT is coupled to a RS422 driver through a 1:1 transformer which provides 1000 V of galvanic isolation. 
+
+\section{Schematic}
+
+See attached schematic pages.
 
 \includepdf[pages=-]{DNVT_box3rt.pdf}
 
