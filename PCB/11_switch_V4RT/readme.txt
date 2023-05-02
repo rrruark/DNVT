@@ -1,13 +1,13 @@
-Eagle Schematic: DNVT_box4rt.sch
-Eagle Layout: DNVT_box4rt.brd
-Schematic PDF: DNVT_box4rt.pdf
+Eagle Schematic: DNVT_box3rt.sch
+Eagle Layout: DNVT_box3rt.brd
+Schematic PDF: DNVT_box3rt.pdf
 
-JLCPCB Gerbers: DNVT_box4rt_2023-02-21.zip
-JLCPCB Top Placement: DNVT_box4rt_top_cpl.csv
-JLCPCB BOM: DNVT_box4rt_top_bom.csv
+JLCPCB Gerbers: DNVT_box3rt_2023-05-02.zip
+JLCPCB Top Placement: DNVT_box3rt_top_cpl.csv
+JLCPCB BOM: DNVT_box3rt_top_bom.csv
 
-Through Hole BOM: DNVT_box4rt_th_bom.csv
-Additional BOM: DNVT_box4r_aux_bom.csv
+Through Hole BOM: DNVT_box3rt_th_bom.csv
+Additional BOM: DNVT_box3r_aux_bom.csv
 
 Notes:
 
